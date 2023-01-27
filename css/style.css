@@ -97,12 +97,6 @@ video {
   gap: 0.6rem;
 }
 
-.card-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .card-stats-growth-text {
   color: var(--cyan);
   font-weight: 600;
